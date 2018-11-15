@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+ <Oblig4>
+
+  <Student Studentnummer="100">
+    <Fornavn>Arne</Fornavn>
+    <Etternavn>Rarne</Etternavn>
+  </Student>
+  <Student Studentnummer="200">
+    <Fornavn>Cedric</Fornavn>
+    <Etternavn>Mark</Etternavn>
+  </Student>
+  <Student Studentnummer="300">
+    <Fornavn>Kåre</Fornavn>
+    <Etternavn>Arnt</Etternavn>
+  </Student>
+
+  <Emne Emnekode="DAT101">
+    <Navn>Datafag for de kule</Navn>
+  </Emne>
+  <Emne Emnekode="DAT102">
+    <Navn>Algoritme og Datastruktur</Navn>
+  </Emne>
+  <Emne Emnekode="DAT103">
+    <Navn>Datamaskiner og operativsystemer</Navn>
+  </Emne>
+
+  <Eksamen Studentnummer="100" Emnekode="DAT101">
+    <Karakter>A</Karakter>
+  </Eksamen>
+  <Eksamen Studentnummer="100" Emnekode="DAT102">
+    <Karakter>B</Karakter>
+  </Eksamen>
+  <Eksamen Studentnummer="100" Emnekode="DAT103">
+    <Karakter>C</Karakter>
+  </Eksamen>
+  <Eksamen Studentnummer="200" Emnekode="DAT101">
+    <Karakter>E</Karakter>
+  </Eksamen>
+  <Eksamen Studentnummer="200" Emnekode="DAT102">
+    <Karakter>D</Karakter>
+  </Eksamen>
+  <Eksamen Studentnummer="200" Emnekode="DAT103">
+    <Karakter>F</Karakter>
+  </Eksamen>
+  <Eksamen Studentnummer="300" Emnekode="DAT101">
+    <Karakter>B</Karakter>
+  </Eksamen>
+  <Eksamen Studentnummer="300" Emnekode="DAT102">
+    <Karakter>C</Karakter>
+  </Eksamen>
+  <Eksamen Studentnummer="300" Emnekode="DAT103">
+    <Karakter>A</Karakter>
+  </Eksamen>
+
+</Oblig4>
